@@ -1,0 +1,5 @@
+com\springrestful\bean\Greeting.class
+com\springrestful\bean\Hello.class
+com\springrestful\bean\Message.class
+com\springrestful\resource\GreetingController.class
+com\springrestful\resource\DemoRestController.class
